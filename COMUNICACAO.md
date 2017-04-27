@@ -67,6 +67,7 @@ Clique em cada um dos links abaixo para adicionar as salas na sua agenda:
 - Sala Metroid - [Clique aqui para adicionar](https://www.google.com/calendar/render?cid=pagar.me_005qh2t1v135413aket8g2fg7o@group.calendar.google.com)
 - Sala Donkey Kong - [Clique aqui para adicionar](https://www.google.com/calendar/render?cid=pagar.me_tl0ghg0vtm8j4vehe3ei8r8d9s@group.calendar.google.com)
 - Sala Triforce - [Clique aqui para adicionar](https://www.google.com/calendar/render?cid=pagar.me_kib25cedbe54fd19onesi177fg@group.calendar.google.com)
+- Sala Silêncio - Presidente - [Clique aqui para adicionar](https://www.google.com/calendar/render?cid=pagar.me_v6ju4drrt2jgut0lu3humj8lf0@group.calendar.google.com)
 
 **Passo 2:**
 
